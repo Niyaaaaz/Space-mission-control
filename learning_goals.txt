@@ -1,0 +1,19 @@
+Here are the three personal learning goals
+
+1) installation of vs code:
+
+uses: we need vs code for coading and for the very good user interface.
+it is very important for the backend coders.
+take google chrome and search the vs code and install it.
+
+2) setup of node.js:
+
+uses :  it is the js librery that is used for the node module it is very important to run thr code fastly.
+
+take vs code terminal and to install the node.js put the command npm i or npm install
+
+3) monsoose :
+
+uses : it is used to store the data correctly instead of searching here and there we can use it to store securly
+
+google chrome and install the monsoose librery
